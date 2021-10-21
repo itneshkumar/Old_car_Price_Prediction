@@ -1,0 +1,4 @@
+0. Download the dataset from kaggle
+1. Create a new envirnment (carprediction) in anoconda power shell --3.7
+conda create --name cardekho python=3.6
+2. Working direcatory and launch (jupyter notebook)
